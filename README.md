@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @alopezdelgado
-- 👀 I’m interested in learning how to code, biology and data science. 
+- 👀 I’m interested in learning how to code, biology and bioinformatics. 
 - 🌱 I’m currently attending LEARN Academy bootcamp, Foxtrot cohort. 
 - 📫 How to reach me: andrealdelgado_99@outlook.com
 
