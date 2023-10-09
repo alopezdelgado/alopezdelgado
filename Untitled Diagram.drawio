@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-09T17:09:40.653Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="gFUGr53RS0PyUPPdjplS" version="22.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-09T17:12:52.201Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="mP84AMn5hXSK55s1x9Ve" version="22.0.4" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1194" dy="2948" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -258,6 +258,15 @@
         </mxCell>
         <mxCell id="UzkfvClZWq-bSaXmTjws-8" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://live.staticflickr.com/65535/48322925721_b972755ed9_b.jpg;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="769" y="-1570.88" width="131" height="65.88" as="geometry" />
+        </mxCell>
+        <mxCell id="UzkfvClZWq-bSaXmTjws-9" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://innovativegenomics.org/wp-content/uploads/2018/04/Genome-Editing.png;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="590" y="-1506.25" width="70" height="59.91" as="geometry" />
+        </mxCell>
+        <mxCell id="UzkfvClZWq-bSaXmTjws-10" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://live.staticflickr.com/3014/2586593089_709e0c7c8f_c.jpg;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="780" y="-1473.1299999999999" width="120" height="71.26" as="geometry" />
+        </mxCell>
+        <mxCell id="UzkfvClZWq-bSaXmTjws-13" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://miro.medium.com/v2/resize:fit:1400/1*6LkA4Zq-rUQHF59C7pK46Q.jpeg;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="785" y="-1366.88" width="110" height="61.88" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
